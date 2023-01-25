@@ -1,0 +1,13 @@
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.exe
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.deps.json
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.json
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.runtimeconfig.dev.json
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.dll
+C:\Users\PSANDHY1\source\repos\average\book\bin\Debug\netcoreapp3.1\book.pdb
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.AssemblyInfoInputs.cache
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.AssemblyInfo.cs
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.csproj.CoreCompileInputs.cache
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.dll
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.pdb
+C:\Users\PSANDHY1\source\repos\average\book\obj\Debug\netcoreapp3.1\book.genruntimeconfig.cache

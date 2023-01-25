@@ -1,0 +1,13 @@
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.exe
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.deps.json
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.runtimeconfig.json
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.runtimeconfig.dev.json
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.dll
+C:\Users\PSANDHY1\source\repos\average\CaLculator\bin\Debug\netcoreapp3.1\CaLculator.pdb
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.AssemblyInfoInputs.cache
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.AssemblyInfo.cs
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.csproj.CoreCompileInputs.cache
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.dll
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.pdb
+C:\Users\PSANDHY1\source\repos\average\CaLculator\obj\Debug\netcoreapp3.1\CaLculator.genruntimeconfig.cache
